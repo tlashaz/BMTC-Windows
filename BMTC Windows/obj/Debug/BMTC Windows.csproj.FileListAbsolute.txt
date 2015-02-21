@@ -1,0 +1,52 @@
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\App.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\MainPage.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\BMTC Windows.xr.xml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\BMTC Windows.exe
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\BMTC Windows.pdb
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\resources.pri
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\AppxManifest.xml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\BMTC Windows.build.appxrecipe
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\App.g.i.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\App.g.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\MainPage.g.i.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\MainPage.g.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\App.xaml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\App.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\MainPage.xaml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\MainPage.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BMTC Windows.exe
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BMTC Windows.pdb
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\priconfig.xml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\layout.resfiles
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\resources.resfiles
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\pri.resfiles
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\qualifiers.txt
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\ProjectArchitectures.txt
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\BengaluruDarshini.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini.g.i.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini.g.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini.xaml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\BengaluruDarshini1.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini1.g.i.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini1.g.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini1.xaml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini1.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\BengaluruDarshini2.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini2.g.i.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini2.g.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini2.xaml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\BengaluruDarshini2.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\bin\Debug\EnterRoute.xbf
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\EnterRoute.g.i.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\EnterRoute.g.cs
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\EnterRoute.xaml
+c:\users\talha\documents\visual studio 2013\Projects\BMTC Windows\BMTC Windows\obj\Debug\EnterRoute.xbf
